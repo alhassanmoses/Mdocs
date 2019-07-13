@@ -1,0 +1,1 @@
+enum UserMode { HealthProfessional, Client }
